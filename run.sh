@@ -1,3 +1,5 @@
 #!/bin/bash
 
-bash cloneGitHub.sh projects.csv
+#bash gitClone.sh listUrlAndFullNameProjects.csv
+
+bash gitUpdateAllBranches.sh listFullNameProjects.csv
